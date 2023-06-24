@@ -7,3 +7,8 @@
 body{
     background-color: blue;
 }
+.icon-white{
+    color: white !important; 
+    background-color: white !important; 
+
+}
